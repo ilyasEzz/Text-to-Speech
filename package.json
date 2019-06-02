@@ -1,0 +1,15 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "app text to speech app in js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ilyas Ezzahid",
+  "license": "MIT",
+  "homepage": "https://github.com/ilyasEzz/Text-to-Speech",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
